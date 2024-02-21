@@ -1,0 +1,8 @@
+.logo{
+    height: 85px;
+    width: 82px;
+    filter: drop-shadow(4px 6px 3px gray);
+}
+.navbar{
+ display: flex;
+}

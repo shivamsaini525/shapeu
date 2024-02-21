@@ -1,0 +1,13 @@
+.navbarList{
+    display: flex;
+    padding-left: 700px;
+}
+
+li{
+    padding-right: 111px;
+    margin-top: 30px;
+    
+}
+li.a{
+    text-decoration: none;
+}
