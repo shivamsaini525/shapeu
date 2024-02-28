@@ -16,7 +16,7 @@ const Nav=()=>{
                     <NavLink to="/service">Service</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/contact">Contact</NavLink>
+                    <NavLink to="/contact">Conttact</NavLink>
                 </li>
             </ul>
 
